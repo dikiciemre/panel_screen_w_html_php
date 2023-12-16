@@ -28,9 +28,9 @@ TABLENAME = customer_info <br/>
 
 SQL code for table : <br/>
 CREATE TABLE customer_info ( <br/>
-    id INT PRIMARY KEY, <br/>
-    ad VARCHAR(50), <br/>
-    soyad VARCHAR(50), <br/>
-    email VARCHAR(50) <br/>
+  <t/>  id INT PRIMARY KEY, <br/>
+  <t/>  ad VARCHAR(50), <br/>
+   <t/> soyad VARCHAR(50), <br/>
+   <t/> email VARCHAR(50) <br/>
 );
 
