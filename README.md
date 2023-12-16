@@ -23,14 +23,14 @@
  <br/>
 
 
-DATABASE NAME = customer
-TABLENAME = customer_info
+DATABASE NAME = customer <br/>
+TABLENAME = customer_info <br/>
 
 SQL code for table : <br/>
-CREATE TABLE customer_info (
-    id INT PRIMARY KEY,
-    ad VARCHAR(50),
-    soyad VARCHAR(50),
-    email VARCHAR(50)
+CREATE TABLE customer_info ( <br/>
+    id INT PRIMARY KEY, <br/>
+    ad VARCHAR(50), <br/>
+    soyad VARCHAR(50), <br/>
+    email VARCHAR(50) <br/>
 );
 
